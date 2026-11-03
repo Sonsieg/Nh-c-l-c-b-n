@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Nhạc Lý Căn Bản</string>
+    <string name="nav_curriculum">Bài Học</string>
+    <string name="nav_notes">Đọc Nốt</string>
+    <string name="nav_rhythm">Đọc Phách</string>
+    <string name="nav_compose">Sáng Tác</string>
+    <string name="nav_handbook">Cẩm Nang</string>
+</resources>

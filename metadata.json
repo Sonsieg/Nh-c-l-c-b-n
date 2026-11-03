@@ -1,0 +1,6 @@
+{
+  "name": "Nhạc Lý Căn Bản",
+  "description": "Ứng dụng học nhạc lý căn bản thực hành, luyện đọc nốt trên khuông nhạc, đọc phách tiết tấu và nền tảng sáng tác âm nhạc.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
